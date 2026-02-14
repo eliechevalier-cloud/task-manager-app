@@ -1,6 +1,18 @@
 # task-manager-app
 Simple task manager to learn GitHub features
 
+## Project Structure
+
+```
+task-manager-app/
+├── src/              # Source code
+├── tests/            # Test files
+├── docs/             # Documentation
+├── README.md         # Project readme
+├── package.json      # Dependencies and scripts
+└── LICENSE           # License information
+```
+
 ## Features
 
 - Feature 1
@@ -11,12 +23,12 @@ Simple task manager to learn GitHub features
 
 ```bash
 # Clone the repository
-git clone https://github.com/eliechevalier-cloudwhat/[repo-name].git
+git clone https://github.com/eliechevalier-cloud/task-manager-app.git
 
 # Navigate to directory
-cd [repo-name]
+cd task-manager-app
 
-# Install dependencies (adjust for your project)
+# Install dependencies
 npm install
 ```
 
